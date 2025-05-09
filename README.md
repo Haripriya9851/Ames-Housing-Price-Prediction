@@ -1,6 +1,6 @@
 # Ames Housing Price Prediction model optimization with R
 
-Please read whole report : 
+Please read whole report : https://github.com/Haripriya9851/Ames-Housing-Price-Prediction-model-optimization-with-R/blob/main/ALY6015_HaripriyaR_Week1_Report.pdf 
 
 This report performs exploratory data analysis (EDA) and regression analysis on the Ames Housing dataset to identify variables influencing sale price using ML optimization and feature engineering techniques. The dataset contains 2,930 observations and 82 variables, sourced from the Ames Assessor’s Office, which provides detailed housing attributes, including both structural and locational characteristics that impact residential property prices.
 
