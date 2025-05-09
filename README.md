@@ -1,2 +1,2 @@
 # Ames-Housing-Price-Prediction
-Ames Housing Price Prediction with R
+Ames Housing Price Prediction model optimization with R
