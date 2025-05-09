@@ -21,19 +21,18 @@ Figure-RHS presents the residual plot for the model without feature engineering,
 
 Hence, the next step is to do scale, handle Multi Collinearity, Outliers to refine the model.
 
-# Apply Feature Engineering
+# Optimized Linear Model - Residual Plot of After Feature Engineering
+### Apply Feature Engineering
 - Handle Homoscedasticity with Normalizing the variables
 - Handle Outliers
-
-
-# Optimized Linear Model - Residual Plot of After Feature Engineering
+  
 <img width="350" alt="image" src="https://github.com/user-attachments/assets/06be8b2d-8544-40c3-a917-c53913090a12" />
 <img width="469" height="400" alt="image" src="https://github.com/user-attachments/assets/741865d4-bba1-4cdb-872c-6291ee31ccd8" />
 
 After scaling, removing multicollinearity and examining outlier checks, new linear model was fitted to understand the variables influencing the normalized salesprice. 
 The adjusted R-squared of 0.7811 indicates that the model explains 78.11% of the variance in sale price, which is nearly identical to the previous model, but with only four significant predictors after feature engineering.
 
-Subset Regression with StepWise Regression
+# Subset Regression with StepWise Regression
 
 The stepwise regression model was used to identify the best set of predictor variables for sale_price_normalized. The results, displayed in Figure, indicate that each variable included in the final model contributes to reducing the Akaike Information Criterion (AIC), which suggests that all variables have predictive value for the normalized sale price. 
 
