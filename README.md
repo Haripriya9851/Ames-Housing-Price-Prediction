@@ -1,6 +1,6 @@
 # Ames Housing Price Prediction model optimization with R
 
-This report performs exploratory data analysis (EDA) and regression analysis on the Ames Housing dataset to identify variables influencing sale price. The dataset contains 2,930 observations and 82 variables, sourced from the Ames Assessor’s Office, which provides detailed housing attributes, including both structural and locational characteristics that impact residential property prices.
+This report performs exploratory data analysis (EDA) and regression analysis on the Ames Housing dataset to identify variables influencing sale price using ML optimization and feature engineering techniques. The dataset contains 2,930 observations and 82 variables, sourced from the Ames Assessor’s Office, which provides detailed housing attributes, including both structural and locational characteristics that impact residential property prices.
 
 # Exploratory Data Analysis
 ![image](https://github.com/user-attachments/assets/1a2d291e-7226-47e9-b4b6-47613023a951)
